@@ -18,3 +18,19 @@ tags:
 Since when is deploying so easy? Follow the [instructions here](https://www.netlifycms.org/docs/start-with-a-template/) - pretty straightforward!
 
 Check out the docs for more info!
+
+
+
+Since when is deploying so easy? Follow the [instructions here](https://www.netlifycms.org/docs/start-with-a-template/) - pretty straightforward!
+
+Check out the docs for more info!
+
+Since when is deploying so easy? Follow the [instructions here](https://www.netlifycms.org/docs/start-with-a-template/) - pretty straightforward!
+
+Check out the docs for more info!
+
+Since when is deploying so easy? Follow the [instructions here](https://www.netlifycms.org/docs/start-with-a-template/) - pretty straightforward!
+
+Check out the docs for more info!Since when is deploying so easy? Follow the [instructions here](https://www.netlifycms.org/docs/start-with-a-template/) - pretty straightforward!
+
+Check out the docs for more info!
