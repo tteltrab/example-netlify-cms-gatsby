@@ -2,12 +2,7 @@
 templateKey: blog-post
 title: Initial Setup w/ Netlify + Gatsby
 date: 2019-01-24T16:02:14.833Z
-description: |-
-  This is a brief introduction into getting setup with Netlify CMS + Gatsby.
-
-  Netlify CMS is a git-based headless CMS which is awesome.
-
-  Here's a new line for demo purposes.
+description: This is a brief introduction into getting setup with Netlify CMS + Gatsby.
 tags:
   - tech
   - netlify
